@@ -1,7 +1,7 @@
 # Netflix-Clone
 
 ### What is Netflix-Clone?
-It is a Web Appliction which works like Netflix Website.
+It is a Web Application which works like Netflix Website.
 
 ### UI Screenshots
 
